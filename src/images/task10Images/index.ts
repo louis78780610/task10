@@ -1,0 +1,15 @@
+export { default as about } from "./about.png";
+export { default as business1 } from "./business1.png";
+export { default as business2 } from "./business2.png";
+export { default as business3 } from "./business3.png";
+export { default as business4 } from "./business4.png";
+export { default as company } from "./company.png";
+export { default as logo } from "./logo.png";
+export { default as mainvisual } from "./mainvisual.png";
+export { default as resAbout } from "./res_about1.png";
+export { default as resBusiness1 } from "./res_business1.png";
+export { default as resBusiness2 } from "./res_business2.png";
+export { default as resBusiness3 } from "./res_business3.png";
+export { default as resBusiness4 } from "./res_business4.png";
+export { default as resCompany1 } from "./res_company1.png";
+export { default as resMainvisual } from "./res_mainvisual1.png";
